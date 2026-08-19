@@ -20,14 +20,14 @@
 
 ## 🚀 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** unindo **tecnologia, dados e marketing**. Tenho experiência com Python/Django, dashboards em Power BI e automações com IA, além de atuação prática em social media e estratégia digital — usando dados para gerar valor real ao negócio.
+Estudante de **Análise e Desenvolvimento de Sistemas** unindo **tecnologia, dados e IA**. Tenho experiência com Python/Django, dashboards em Power BI e automações com IA. Atualmente atuando no desenvolvimento de um SaaS na NoBug Tecnologia.
 
-- 💼 Atual: **Analista de Marketing e Social Media no Prado Supermercados**
-- 🎓 Formação: **ADS na UNICESUSC — Florianópolis**
-- 🛠️ Desenvolvendo: **[SEUS PROJETOS ATUAIS]**
-- 📚 Estudando: **Python, Power BI, automações com IA**
-- 📍 Localização: **Santa Catarina, Brasil 🇧🇷**
-- ⚡ Curiosidade: **[ALGO PESSOAL — série, hobby, esporte]**
+- 💼 Atual: **Estágiario de Desenevolvimento Front/Back com IA na NoBug Tecnologia**
+- 🎓 Formação: **ADS no UNICESUSC — Florianópolis**
+- 🛠️ Desenvolvendo: **SportsLyze**
+- 📚 Estudando: **IA Generativa, Desenvolvimento Full Stack e Machine Learning**
+- 📍 Localização: **Florianópolis, Brasil 🇧🇷**
+- ⚡ Curiosidade: **Fánatico por futebol e pelo meu time do coração e por cinema**
 
 ---
 
