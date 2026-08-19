@@ -67,24 +67,16 @@ Estudante de **Análise e Desenvolvimento de Sistemas** unindo **tecnologia, dad
 
 ## 💻 Projetos em Destaque
 
-### 📌 [Nome do Projeto 1](https://github.com/kkardosin01/projeto-1)
-> Descrição curta do que o projeto faz e qual problema resolve. [🔗 Demo](https://link-da-demo.com)
+### 📌 Fin Ez
+> Mini SaaS de educação financeira para jovens de 16 à 25 anos! [🔗 Demo](https://fin-ez.vercel.app/)
 
-`Python` `Django` `PostgreSQL`
-
----
-
-### 📌 [Nome do Projeto 2](https://github.com/kkardosin01/projeto-2)
-> Descrição curta do que o projeto faz e qual problema resolve.
-
-`Power BI` `Python` `Pandas`
+`Python` `TypeScript` `Java Script` `Postgres SQL`
 
 ---
 
-### 📌 [Nome do Projeto 3](https://github.com/kkardosin01/projeto-3)
-> Descrição curta do que o projeto faz e qual problema resolve.
-
-`JavaScript` `HTML` `CSS`
+### 📌 SportLyze
+> Aplicativo de análise de partidas de futebol para clubes.
+`SQL` `Python` `Java Script`
 
 ---
 
